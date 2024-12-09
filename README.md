@@ -25,6 +25,7 @@ The files included:
 	- Criteria 1 - 5 match the ai_p_c1 - ai_p_c5 columns of points_template.csv
 - assignment.pdf
 	- Assignment instructions given to students
+	- The original assignment had two parts, but for this case, only the part 1 is included
 	- Note that the URL links given in the assignment instructions are not guaranteed to work anymore, but they did work when the instructions were given to students. In any case, for this grader implementation the links are irrelevant.
 	
 	
